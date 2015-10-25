@@ -10,3 +10,5 @@
  * @version: v1.0
  */
 "use strict";
+
+module.exports = require('./lib/generate');
